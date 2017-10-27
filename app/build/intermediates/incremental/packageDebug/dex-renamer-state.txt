@@ -1,0 +1,7 @@
+#Sun Jul 02 22:06:00 WIB 2017
+base.0=/Users/Poncoe/Documents/AStudioProject/SplashscreenProgressBar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0015edb8f7e45bef61f68148d0d9b55a02efd065
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Poncoe/Documents/AStudioProject/SplashscreenProgressBar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f753bbee475d159ea134240bdcb445b9c6f3052/classes.dex
+base.1=/Users/Poncoe/Documents/AStudioProject/SplashscreenProgressBar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f753bbee475d159ea134240bdcb445b9c6f3052
+file.0=/Users/Poncoe/Documents/AStudioProject/SplashscreenProgressBar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0015edb8f7e45bef61f68148d0d9b55a02efd065/classes.dex
